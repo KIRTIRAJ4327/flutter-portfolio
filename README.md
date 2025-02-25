@@ -185,9 +185,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or feedback, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: kirtirajsinh.atodariya@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/kirtirajsinhatodariya)
+- GitHub: [Your GitHub](https://github.com/KIRTIRAJ4327)
 
 ---
 
